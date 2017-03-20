@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple starter package for javascript with es6 transpile",
   "main": "index.js",
-  "repository": "",
+  "repository": "git@github.com:tbarto/js-es6-starter.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
